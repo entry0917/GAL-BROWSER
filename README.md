@@ -1,4 +1,4 @@
-# gooroom-browser
+# GAL BROWSER
 Forked gooroom-browser.
 
 
